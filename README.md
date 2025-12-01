@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Piyal Datta</h1>
+<h1 align="center">Hi 😄, Piyal Datta here ...</h1>
 <h3 align="center">Interested in { ML || Deep learning } | Software Development | Responsive Web Development</h3>
 
+<br/>  
+<div align="left">
+<img src="https://img.shields.io/badge/piyaldattactg@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+
+<img src="https://img.shields.io/badge/01763717814-%231E77B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
+</div> 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyal-datta&label=Profile%20views&color=0e75b6&style=flat" alt="piyal-datta" /> </p> -->
 
 - 🔭 I’m currently working on **Multi-Cancer Detection**
