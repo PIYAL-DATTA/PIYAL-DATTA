@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyal Datta</h1>
 <h3 align="center">Interested in { ML || Deep learning } | Software Development | Responsive Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyal-datta&label=Profile%20views&color=0e75b6&style=flat" alt="piyal-datta" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyal-datta&label=Profile%20views&color=0e75b6&style=flat" alt="piyal-datta" /> </p> -->
 
 - 🔭 I’m currently working on **Multi-Cancer Detection**
 
